@@ -6,7 +6,7 @@ body {
 		
 	text-align: justify;
 	font-family: "Verdana", Arial, Helvetica, sans-serif;
-	font-size: 11px;
+	font-size: 13px;
 	color: #000;
 }
 
@@ -21,9 +21,6 @@ h1, h2, h3, h4, h5, h6 {
 h2, h3 {
 	margin: 0 0 20px 0;
 	padding: 0 0 10px 0;
-	
-	
-	letter-spacing: -1px;
 }
 
 h2 {
@@ -35,7 +32,7 @@ h3 {
 }
 
 p, ol, ul {
-	line-height: 160%;
+	line-height: 130%;
 }
 
 ul {
@@ -54,12 +51,9 @@ ul li.first {
 }
 
 a {
-	color: #D9C09A;
+	color: #fff;
 }
 
-a:hover {
-	text-decoration: none;
-}
 
 strong {
 	color: #D9C09A;
@@ -89,7 +83,7 @@ strong {
 }
 
 #header * {
-	text-transform: lowercase;
+	
 	color: #FFFFFF;
 }
 
@@ -168,6 +162,6 @@ strong {
 #footer p {
 	margin: 0;
 	padding: 0;
-	text-transform: lowercase;
+	
 	text-align: center;
 }
