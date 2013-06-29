@@ -56,7 +56,7 @@ a {
 
 
 strong {
-	color: #D9C09A;
+	color: #000;
 }
 
 .indent {
@@ -162,6 +162,5 @@ strong {
 #footer p {
 	margin: 0;
 	padding: 0;
-	
 	text-align: center;
 }
