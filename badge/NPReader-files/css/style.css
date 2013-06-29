@@ -1,0 +1,41 @@
+body
+{
+	background-image: url('../assets/img2.jpg');
+	background-repeat: repeat-x;
+	background-color: #ffffff;
+	font-family: verdana, sans-serif;
+	font-size: 15px;
+	color: #194a7b;
+}
+
+#header
+{
+	padding-top: 20px;
+}
+
+ #container
+{
+	width: 600px;
+	margin: 0 auto;
+	padding-top: 75px;
+}
+#rule
+{
+	border-style: solid;
+	border-color: #ffffff;
+}
+#desc
+{
+	padding-top: 10px;
+	margin-left: 5px;
+	float: left;
+	width: 365px;
+	margin-right: 5px
+}
+#link
+{
+	padding-top: 10px;
+	float:left;
+	margin-left: 5px;
+	width: 215px;
+}
