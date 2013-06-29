@@ -94,21 +94,6 @@ strong {
 	list-style: none;
 }
 
-#header li {
-	display: inline;
-}
-
-#header li a {
-	display: block;
-	float: left;
-	padding: 0 15px;
-	border-left: 1px solid #7DD2FA;
-}
-
-#header li.first a {
-	border: none;
-}
-
 /* Content */
 
 #content {
